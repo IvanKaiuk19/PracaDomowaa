@@ -1,0 +1,20 @@
+#m3 {
+  float: left;
+  text-align: center;
+  color: white;
+  min-height: 300px;
+  width: 100%;
+  background-color: black;
+}
+body {
+  font-family: bebas-neue, sans-serif;
+  letter-spacing: 0.1em;
+  background-color: black;
+}
+.link-one {
+  color: violet;
+  text-decoration: none;
+}
+#menu {
+  text-align: center;
+}
